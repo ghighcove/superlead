@@ -1,0 +1,30 @@
+# Source Integration System Configuration
+
+# Directory Paths
+INPUT_DIR: input
+DOCS_DIR: docs
+SOURCES_DIR: sources
+ASSETS_DIR: assets
+
+# File Processing Rules
+SUPPORTED_FORMATS:
+  papers: ['.pdf', '.txt', '.md']
+  briefings: ['.md']
+  data: ['.json', '.csv', '.yaml', '.yml']
+  references: ['.md', '.bib', '.ris']
+
+# Content Extraction Settings
+PDF_PROCESSING:
+  extract_text: true
+  extract_metadata: true
+  extract_images: false
+
+# Integration Rules
+MIN_BRIEFING_LENGTH: 50  # characters
+MAX_SUMMARY_LENGTH: 500  # characters
+AUTO_UPDATE_THRESHOLD: 0.8  # confidence threshold for auto-updates
+
+# GitHub Integration
+TRACK_CHANGES: true
+MAINTAIN_CITATIONS: true
+PRESERVE_SOURCES: true
