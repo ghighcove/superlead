@@ -1,4 +1,4 @@
-# Autonomous Projectile Guidance Research System - Documentation Index
+# Project SUPERLEAD - Documentation Index
 
 ## Overview
 

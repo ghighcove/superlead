@@ -1,4 +1,4 @@
-# Findings & Decisions: Adversarial Technologies Research
+# Project SUPERLEAD - Findings & Decisions: Adversarial Technologies Research
 <!-- 
   WHAT: Knowledge base for adversarial technologies research on autonomous projectile guidance systems
   WHY: Context windows are limited. This file stores critical threat intelligence and analysis.

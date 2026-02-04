@@ -1,4 +1,4 @@
-# Comprehensive Analysis: Adversarial Technologies and Countermeasures for Autonomous Projectile Guidance Systems
+# Project SUPERLEAD - Comprehensive Analysis: Adversarial Technologies and Countermeasures for Autonomous Projectile Guidance Systems
 
 **Research Date:** February 2026  
 **Scope:** Systematic analysis of threats and defenses for autonomous projectile guidance systems  

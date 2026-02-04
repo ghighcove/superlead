@@ -1,8 +1,8 @@
-# Automatic Session Ingestion System
+# Project SUPERLEAD - Automatic Session Ingestion System
 
 ## Overview
 
-The Automatic Session Ingestion System provides a streamlined workflow for integrating new research sources into the autonomous projectile guidance documentation. It runs automatically at the start of every research session to ensure all new materials are processed and incorporated.
+The Automatic Session Ingestion System provides a streamlined workflow for integrating new research sources into the Project SUPERLEAD documentation. It runs automatically at the start of every research session to ensure all new materials are processed and incorporated.
 
 ## Features
 
