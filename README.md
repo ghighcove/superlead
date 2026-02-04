@@ -154,6 +154,16 @@ input/
 
 **Attribution**: Proper attribution required when using or referencing this research in publications or derivative works.
 
+---
+
+## © Copyright & Attribution
+
+**Project Creation**: This project is done with OpenCode by Glenn Highcove, Copyright 2026 on this system and research refresh, where not already impinging on existing copyright.
+
+**Research Framework**: This GitHub is ingestible as a self-refreshing plan and framework for commercial and research/scientific applications.
+
+**OpenCode Integration**: Built using OpenCode's autonomous project planning and execution capabilities with comprehensive source integration and documentation generation systems.
+
 ## 🔗 Key Links
 
 - **[Complete Documentation Index](docs/documentation_index.md)**
