@@ -215,7 +215,13 @@
         ]
       },
       "archived_path": "sources\\The Magic of the Spiral_ A Beginner\u2019s Guide to Bullet Coning and Flight Stability.md"
-    }
-  },
-  "last_update": "2026-02-04T13:38:03.527402"
-}
+    },
+    "input\\briefings\\nfl_etl_system_briefing.md": {
+      "file_path": "input\\briefings\\nfl_etl_system_briefing.md",
+      "category": "briefings",
+      "hash": "f02c7fe92ee105b46e6f025422f8cbed0615dd848955e7d7434097eaeec2e651",
+      "added_date": "2026-02-05T22:21:24.336409",
+      "status": "new",
+      "title": "NFL Data ETL System - Automated Transformation Pipeline",
+      "author": "Glenn Highcove",
+      "date": 
