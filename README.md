@@ -34,17 +34,45 @@ You are permitted to make file changes, run shell commands, and utilize your ars
 
 🚀 **Automatic Session Ingestion (Recommended)**
 
-**Windows:**
-```cmd
-start_session.bat
-```
-
-**Linux/Mac:**
 ```bash
-./start_session.sh
+python claude_session_start.py
 ```
 
 This automatically scans for new research sources, analyzes relevance, and provides documentation integration recommendations.
+
+**Legacy scripts also available**:
+- Windows: `start_session.bat`
+- Linux/Mac: `./start_session.sh`
+
+## 🤖 Claude Code Integration
+
+**Project SUPERLEAD now follows Claude Code standards** for enhanced workflow automation and task management.
+
+### Task Management
+- **`tasks/todo.md`** - Active work items with priorities
+- **`tasks/context.md`** - Current research state and discoveries
+- **`tasks/lessons.md`** - Patterns learned and recurring issues
+- **`tasks/archive/`** - Completed task history
+
+### Session Workflow
+1. **Start session**: `python claude_session_start.py`
+2. **Review suggestions**: `cat tasks/session_ingestion_suggestions.md`
+3. **Check context**: `cat tasks/context.md` (5-question check)
+4. **Active tasks**: `cat tasks/todo.md`
+5. **Apply patterns**: `cat tasks/lessons.md`
+
+### Configuration Files
+- **`CLAUDE.md`** - Project configuration and workflow guide
+- **`AGENTS.md`** - Recurring patterns and domain knowledge
+- **`.claudeignore`** - Files excluded from Claude context
+
+### Template Reusability
+Project SUPERLEAD can be used as a template for other scientific research projects:
+- **`TEMPLATE_GUIDE.md`** - Comprehensive customization guide
+- **Template Package**: `C:\ai\science_project_template\` - Ready-to-use clean template
+- **Customization Checklist**: Step-by-step setup instructions
+
+**See**: `MIGRATION_LOG.md` for details on Claude Code standardization changes
 
 ## 🔬 Source Integration System
 

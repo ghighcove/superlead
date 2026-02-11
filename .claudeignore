@@ -1,0 +1,61 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+source_integration.log
+
+# Database files
+source_database.json
+
+# Archives
+archive/
+tasks/archive/
+
+# Git
+.git/
+.gitignore
+
+# Binary sources (PDFs are large and not directly readable)
+sources/*.pdf
+input/**/*.pdf
+*.pdf
+
+# Large data files
+input/data/*.csv
+input/data/*.json
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+temp/
+tmp/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Node modules (if any JS tooling added later)
+node_modules/
