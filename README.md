@@ -1,5 +1,7 @@
 # Project SUPERLEAD
 
+**Version 1.0.0**
+
 A comprehensive scientific autonomous projectile guidance research platform designed for non-military applications including atmospheric research, materials testing, and autonomous systems development.
 
 ---
