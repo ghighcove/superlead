@@ -79,3 +79,8 @@ source_integration.log
 
 # Session files
 *.sessiontasks/context.md
+
+# Internal archive and briefing files with machine-specific paths
+archive/
+MIGRATION_LOG.md
+TEMPLATE_GUIDE.md

@@ -71,7 +71,7 @@ This automatically scans for new research sources, analyzes relevance, and provi
 ### Template Reusability
 Project SUPERLEAD can be used as a template for other scientific research projects:
 - **`TEMPLATE_GUIDE.md`** - Comprehensive customization guide
-- **Template Package**: `C:\ai\science_project_template\` - Ready-to-use clean template
+- **Template Package**: Clone this repo and follow `TEMPLATE_GUIDE.md` to adapt for your project
 - **Customization Checklist**: Step-by-step setup instructions
 
 **See**: `MIGRATION_LOG.md` for details on Claude Code standardization changes

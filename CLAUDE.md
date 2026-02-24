@@ -37,7 +37,7 @@ cat integration_report.md         # View integration results
 ## Directory Structure
 
 ```
-C:\ai\superlead\
+superlead/
 ├── docs/                         # 8 comprehensive technical documents
 │   ├── system_architecture.md    # 5-layer design framework
 │   ├── commercial_options.md     # Cost-optimized platform analysis

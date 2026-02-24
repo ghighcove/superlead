@@ -21,7 +21,7 @@ The NFL Data ETL system has successfully processed the latest NFL data and is re
 
 ### Data File Specifications
 - **File Name**: nfl_020526.csv
-- **File Path**: C:\ai\NFL_datacent\data\processed\nfl_020526.csv
+- **File Path**: `<project-root>/data/processed/nfl_020526.csv`
 - **File Size**: 7,130 bytes (0.0068 MB)
 - **Record Count**: 28 NFL games
 - **Data Range**: January 4, 2026 to January 25, 2026

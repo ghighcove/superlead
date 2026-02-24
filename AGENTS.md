@@ -8,7 +8,7 @@
 
 **Issue**: Session ingestion script fails with "config.yaml not found"
 - **Cause**: Script executed from wrong directory
-- **Solution**: Always run from project root (`C:\ai\superlead\`)
+- **Solution**: Always run from project root (the `superlead/` directory)
 - **Prevention**: Use `claude_session_start.py` which handles directory context
 
 **Issue**: Source files not detected during automatic ingestion
